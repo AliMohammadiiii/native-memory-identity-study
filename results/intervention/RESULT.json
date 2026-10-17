@@ -1,0 +1,31 @@
+{
+  "analysis_native_calls": 0,
+  "cells": 24,
+  "cells_per_arm": 8,
+  "interpretation": "Source intervention cells, not independent implementations, bug counts or production observations.",
+  "new_model_calls": 0,
+  "publication_readiness": "NOT_ESTABLISHED",
+  "schema_version": "benign-identity-intervention-analysis/1",
+  "source_and_instrument_bound": true,
+  "stage": "source_informed_exploratory_controlled_intervention",
+  "summary": {
+    "dedup_branch_disabled": {
+      "confirmed_current_loss": 0,
+      "response_self_predecessor": 2,
+      "stored_self_edges": 0,
+      "subject_active_with_different_returned_id": 2
+    },
+    "distinct_id_guard": {
+      "confirmed_current_loss": 0,
+      "response_self_predecessor": 2,
+      "stored_self_edges": 0,
+      "subject_active_with_different_returned_id": 0
+    },
+    "unmodified": {
+      "confirmed_current_loss": 2,
+      "response_self_predecessor": 2,
+      "stored_self_edges": 2,
+      "subject_active_with_different_returned_id": 0
+    }
+  }
+}

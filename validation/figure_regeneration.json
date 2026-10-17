@@ -1,0 +1,21 @@
+{
+  "mode": "figures",
+  "bound_files_verified": 559,
+  "selected_outcomes_match": true,
+  "original_cells": 32,
+  "separate_intervention_cells": 24,
+  "byte_identical_figure_exports": [
+    "01_stream_outcomes.pdf",
+    "01_stream_outcomes.svg",
+    "01_stream_outcomes.png",
+    "02_identity_intervention.pdf",
+    "02_identity_intervention.svg",
+    "02_identity_intervention.png",
+    "03_native_witness.pdf",
+    "03_native_witness.svg",
+    "03_native_witness.png"
+  ],
+  "native_cells_executed": 0,
+  "model_or_embedding_api_calls": 0,
+  "independent_execution": "NOT_INFERRED"
+}

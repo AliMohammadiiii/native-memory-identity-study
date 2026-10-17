@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this versioned research artifact when using its code or synthetic data."
+title: "Native memory identity study: executable synthetic witnesses and controlled source intervention"
+type: software
+authors:
+  - family-names: Mohammadi
+    given-names: Ali
+version: 1.0.0
+date-released: 2026-10-17
+repository-code: "https://github.com/AliMohammadiiii/native-memory-identity-study"
+url: "https://github.com/AliMohammadiiii/native-memory-identity-study"
+license: MIT
+abstract: "Source-informed synthetic native-memory observations and a bounded identifier-equality intervention. Data and figures are CC BY 4.0; vendored source retains its original licenses."
+keywords:
+  - memory systems
+  - content deduplication
+  - version identity
+  - reproducibility

@@ -1,0 +1,33 @@
+{
+  "cells_and_workers": {
+    "WORKER_dedup_branch_disabled.json": "3d3a964e05bd134a585a4d0a5d94a9e1b8c71357434eb0e1b335c317b380730c",
+    "WORKER_distinct_id_guard.json": "818cdf4039fde6e274831de22fb9ccdc130aa2c338b499dc5032a5a23d01c3d6",
+    "WORKER_unmodified.json": "5fcab41bffbd47998a9d8a2e64f09c439c9d15eef03e69b6e9301267d85aaf0c",
+    "cells/dedup_branch_disabled/different_namespace_value/CELL.json": "da9b230646312d55aea0abacedf65b13985f671f6548e90b55105a28ed95bff5",
+    "cells/dedup_branch_disabled/existing_other_chain/CELL.json": "a503810d90cc7ef361159749de098bdff96ce887265def0bb3ccdd7576222b08",
+    "cells/dedup_branch_disabled/existing_other_root/CELL.json": "3bc63514551fd99e7de576888201ea484375701b5b051e6b634da97827b2f0da",
+    "cells/dedup_branch_disabled/normal_change/CELL.json": "c5b42623c686fdfb9545430fd6cbf5af1d1c91fdc6c764d42cbccbe840d7b924",
+    "cells/dedup_branch_disabled/repeat_current_value/CELL.json": "9cb437342c6d381eb4522a8f5130b3ba7663077eae31d51f5a6de44d5ae638c2",
+    "cells/dedup_branch_disabled/repeat_remember/CELL.json": "8d6b14f44f9efd5596ad412b27b1e5e4d03ff7b5084bf8f2763caaf15bd7c1e1",
+    "cells/dedup_branch_disabled/return_to_archived_value/CELL.json": "a9a548ad8f89da7e1623eb072970287ded51ab9842f146dfd3148025df2eaaa1",
+    "cells/dedup_branch_disabled/same_value/CELL.json": "b6a35200ce28b687ac0d6ae5b0a87df0a42bf68d5811147fd860c1ebc7ca4ff0",
+    "cells/distinct_id_guard/different_namespace_value/CELL.json": "f5a650d56441dec029cf9b2c48bbd0dacd66f09fd06635ebb60887db24f47231",
+    "cells/distinct_id_guard/existing_other_chain/CELL.json": "8f275d0f9888c607074279f81c9e89b5e9415e105c70a1dc48082f0d5e414225",
+    "cells/distinct_id_guard/existing_other_root/CELL.json": "0fb5f23d1dc74d2fbee349fb6a86b545230c7f9f5c4d3a00bb2c29f2b96a3fc6",
+    "cells/distinct_id_guard/normal_change/CELL.json": "71e0d9e51834a911d062a06f502f2318d82c4ef03c7361c991c243a065318eb1",
+    "cells/distinct_id_guard/repeat_current_value/CELL.json": "81834756be8198e2bb30c2b87c5a900c8e6fb8fd90f7449ed45badab1e368602",
+    "cells/distinct_id_guard/repeat_remember/CELL.json": "16ebc43208d95ecb32d9e7e966b1bf95e5fa4feb76465a5db7fcc7a9477b8179",
+    "cells/distinct_id_guard/return_to_archived_value/CELL.json": "2f15d7c60719d443248471e467efffb494bd03e5f482e0438e12b0f156045cb6",
+    "cells/distinct_id_guard/same_value/CELL.json": "7d513c921f01a34300c19dcdb31ba56fe8056f75f587c548881b52f6b79a57c8",
+    "cells/unmodified/different_namespace_value/CELL.json": "9f7b2674f12291a7a8c674437d5898effb561b00637b201afe6a8c1483e66116",
+    "cells/unmodified/existing_other_chain/CELL.json": "1b55f8745d986beeabdd019609ec848ed31798d9746c40ccfc91e4a0dfff39f5",
+    "cells/unmodified/existing_other_root/CELL.json": "186ee7853a02cbe0e7aab9821b5eef6821de83787d373f23059e3022002f61c7",
+    "cells/unmodified/normal_change/CELL.json": "e7636b522ddac28c062ea3c6ebe3202cf28a7c196a44d689f0d3e768f96d7aa4",
+    "cells/unmodified/repeat_current_value/CELL.json": "d5f94d072452eb5a12c8abefac5d25e8d9f3a0e90df40778d65fca694e9a4101",
+    "cells/unmodified/repeat_remember/CELL.json": "432a51bfab4c0901fe9273f2ba0b487d3cbf1b1da3f58687df69fdb48bcb5fa4",
+    "cells/unmodified/return_to_archived_value/CELL.json": "bee84a4df21d9338960cb219e038a9155a203b38c577fa4c656194812061a352",
+    "cells/unmodified/same_value/CELL.json": "fe029104735ad1888db32ecccb7ada908643e3b243587611e1869d2d2c073a4b"
+  },
+  "manifest_sha256": "ea2e528bc003c3eb6cd90bfbfece5cebb531a542f345355d2bdff5606bf67653",
+  "protocol_sha256": "277be03e0fd776a709fa1539d9ed5af90468eaaef3535e214f259038f7e9a80a"
+}

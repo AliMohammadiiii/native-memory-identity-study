@@ -1,0 +1,32 @@
+[
+  {
+    "claim": "A successful benign native update can hide its requested current value in the pinned source configuration.",
+    "status": "SUPPORTED_IN_SCOPE",
+    "evidence": "CELL_TABLE.csv; bound CELL.json and STEP files; native source"
+  },
+  {
+    "claim": "A requested-value loss is visible through native public reads without fault injection",
+    "status": "SUPPORTED_IN_SCOPE",
+    "evidence": "DETAILS.json requested/current and native snapshots"
+  },
+  {
+    "claim": "The primitive deduplication or version-chain principle is new",
+    "status": "NOT_ESTABLISHED",
+    "evidence": "Established mechanisms; separate prior-art audit required"
+  },
+  {
+    "claim": "A change in another chain's history violates an upstream immutable-history guarantee",
+    "status": "NOT_ESTABLISHED",
+    "evidence": "Diagnostic only; no multi-parent or immutable-history guarantee was assumed"
+  },
+  {
+    "claim": "One library is generally more reliable than another",
+    "status": "NOT_ESTABLISHED",
+    "evidence": "Selected streams and different interfaces do not identify general reliability"
+  },
+  {
+    "claim": "Paper ready for submission or independent reproduction",
+    "status": "NOT_ESTABLISHED",
+    "evidence": "Author and scientific contribution reviews remain separate"
+  }
+]

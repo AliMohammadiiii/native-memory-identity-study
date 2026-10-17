@@ -1,0 +1,35 @@
+{
+  "schema_version": "native-benign-versioning-analysis/1",
+  "cells": 32,
+  "streams_per_interface": 8,
+  "fresh_repetitions": 2,
+  "counts": {
+    "agentmem": {
+      "cells": 16,
+      "requested_value_unavailable": 4,
+      "self_edge_cells": 4,
+      "other_history_changed_cells": 4
+    },
+    "mem0": {
+      "cells": 16,
+      "requested_value_unavailable": 0,
+      "self_edge_cells": 0,
+      "other_history_changed_cells": 0
+    }
+  },
+  "affected_streams": [
+    "repeat_current_value",
+    "same_value"
+  ],
+  "repetition_signatures_match": true,
+  "model_or_embedding_api_calls": 0,
+  "injected_faults": 0,
+  "source_unchanged": true,
+  "evidence_status": "SUPPORTED_IN_SCOPE",
+  "claim": "A successful benign native update can hide its requested current value in the pinned source configuration.",
+  "novelty_status": "UNRESOLVED_SEPARATE_PRIMARY_AUDIT_REQUIRED",
+  "scientific_contribution": "PROMISING_EXPLORATORY",
+  "publication_readiness": "NOT_ESTABLISHED",
+  "native_interfaces_compared_not_ranked": true,
+  "uncertainty": "Source-informed selected streams, one configuration per interface, same executor/workstation. No field prevalence, statistical independence or human reproduction claim."
+}

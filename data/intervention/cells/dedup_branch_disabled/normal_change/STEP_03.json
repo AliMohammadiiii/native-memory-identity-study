@@ -1,0 +1,169 @@
+{
+  "number": 3,
+  "alias": "current",
+  "operation": "update",
+  "target_alias": "subject",
+  "namespace": null,
+  "requested": "memoryprobe preference green",
+  "native": {
+    "outcome": "return",
+    "value": {
+      "id": 3,
+      "supersedes": 2
+    },
+    "returned_id": 3
+  },
+  "before": {
+    "public_current": [
+      {
+        "id": 2,
+        "content": "memoryprobe preference blue",
+        "tier": "core",
+        "source": "",
+        "score": 0.0936,
+        "method": "hybrid",
+        "importance": 0.34
+      }
+    ],
+    "current_contents": [
+      "memoryprobe preference blue"
+    ],
+    "physical_contents": [
+      "memoryprobe preference blue"
+    ],
+    "physical_rows": [
+      {
+        "id": 1,
+        "content": "memoryprobe unrelated keep",
+        "namespace": "sentinel",
+        "archived": 0,
+        "supersedes": null
+      },
+      {
+        "id": 2,
+        "content": "memoryprobe preference blue",
+        "namespace": "fixture",
+        "archived": 0,
+        "supersedes": null
+      }
+    ],
+    "histories": {
+      "1": [
+        {
+          "id": 1,
+          "content": "memoryprobe unrelated keep",
+          "created_at": 1792214225.917768,
+          "archived": false
+        }
+      ],
+      "2": [
+        {
+          "id": 2,
+          "content": "memoryprobe preference blue",
+          "created_at": 1792214225.922928,
+          "archived": false
+        }
+      ]
+    },
+    "other_namespace_contents": [],
+    "sentinel_contents": [
+      "memoryprobe unrelated keep"
+    ],
+    "writer_in_transaction": false,
+    "sqlite_integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ]
+  },
+  "after": {
+    "public_current": [
+      {
+        "id": 3,
+        "content": "memoryprobe preference green",
+        "tier": "core",
+        "source": "",
+        "score": 0.0936,
+        "method": "hybrid",
+        "importance": 0.34
+      }
+    ],
+    "current_contents": [
+      "memoryprobe preference green"
+    ],
+    "physical_contents": [
+      "memoryprobe preference green"
+    ],
+    "physical_rows": [
+      {
+        "id": 1,
+        "content": "memoryprobe unrelated keep",
+        "namespace": "sentinel",
+        "archived": 0,
+        "supersedes": null
+      },
+      {
+        "id": 2,
+        "content": "memoryprobe preference blue",
+        "namespace": "fixture",
+        "archived": 1,
+        "supersedes": null
+      },
+      {
+        "id": 3,
+        "content": "memoryprobe preference green",
+        "namespace": "fixture",
+        "archived": 0,
+        "supersedes": 2
+      }
+    ],
+    "histories": {
+      "1": [
+        {
+          "id": 1,
+          "content": "memoryprobe unrelated keep",
+          "created_at": 1792214225.917768,
+          "archived": false
+        }
+      ],
+      "2": [
+        {
+          "id": 3,
+          "content": "memoryprobe preference green",
+          "created_at": 1792214225.92541,
+          "archived": false
+        },
+        {
+          "id": 2,
+          "content": "memoryprobe preference blue",
+          "created_at": 1792214225.922928,
+          "archived": true
+        }
+      ],
+      "3": [
+        {
+          "id": 3,
+          "content": "memoryprobe preference green",
+          "created_at": 1792214225.92541,
+          "archived": false
+        },
+        {
+          "id": 2,
+          "content": "memoryprobe preference blue",
+          "created_at": 1792214225.922928,
+          "archived": true
+        }
+      ]
+    },
+    "other_namespace_contents": [],
+    "sentinel_contents": [
+      "memoryprobe unrelated keep"
+    ],
+    "writer_in_transaction": false,
+    "sqlite_integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ]
+  }
+}

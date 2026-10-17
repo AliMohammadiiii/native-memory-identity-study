@@ -1,0 +1,363 @@
+{
+  "01_stream_outcomes": [
+    {
+      "text": "agentmem",
+      "font_points": 10.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Mem0",
+      "font_points": 10.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "1",
+      "font_points": 8.5,
+      "inside_canvas": true
+    },
+    {
+      "text": "2",
+      "font_points": 8.5,
+      "inside_canvas": true
+    },
+    {
+      "text": "1",
+      "font_points": 8.5,
+      "inside_canvas": true
+    },
+    {
+      "text": "2",
+      "font_points": 8.5,
+      "inside_canvas": true
+    },
+    {
+      "text": "Repeat add / remember",
+      "font_points": 9.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Match a different namespace",
+      "font_points": 9.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Match another active chain",
+      "font_points": 9.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Match another active root",
+      "font_points": 9.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Return to an archived value",
+      "font_points": 9.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Repeat the current value",
+      "font_points": 9.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Update to the same value",
+      "font_points": 9.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Update to a new value",
+      "font_points": 9.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Current-value availability in the fixed streams",
+      "font_points": 13.5,
+      "inside_canvas": true
+    },
+    {
+      "text": "32 native cells  |  8 streams \u00d7 2 configurations \u00d7 2 fresh repetitions",
+      "font_points": 8.8,
+      "inside_canvas": true
+    },
+    {
+      "text": "One symbol per fresh store. Selected development streams; no population failure-rate estimate.",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Requested value present",
+      "font_points": 8.6,
+      "inside_canvas": true
+    },
+    {
+      "text": "Requested value absent",
+      "font_points": 8.6,
+      "inside_canvas": true
+    }
+  ],
+  "02_identity_intervention": [
+    {
+      "text": "2/8",
+      "font_points": 8.4,
+      "inside_canvas": true
+    },
+    {
+      "text": "0/8",
+      "font_points": 8.4,
+      "inside_canvas": true
+    },
+    {
+      "text": "0/8",
+      "font_points": 8.4,
+      "inside_canvas": true
+    },
+    {
+      "text": "Streams",
+      "font_points": 8.2,
+      "inside_canvas": true
+    },
+    {
+      "text": "0",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "4",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "8",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Unmodified",
+      "font_points": 8.7,
+      "inside_canvas": true
+    },
+    {
+      "text": "Different-ID\nguard",
+      "font_points": 8.7,
+      "inside_canvas": true
+    },
+    {
+      "text": "Whole branch\ndisabled",
+      "font_points": 8.7,
+      "inside_canvas": true
+    },
+    {
+      "text": "Current value\nabsent",
+      "font_points": 8.8,
+      "inside_canvas": true
+    },
+    {
+      "text": "2/8",
+      "font_points": 8.4,
+      "inside_canvas": true
+    },
+    {
+      "text": "0/8",
+      "font_points": 8.4,
+      "inside_canvas": true
+    },
+    {
+      "text": "0/8",
+      "font_points": 8.4,
+      "inside_canvas": true
+    },
+    {
+      "text": "Streams",
+      "font_points": 8.2,
+      "inside_canvas": true
+    },
+    {
+      "text": "0",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "4",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "8",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Stored\nself edge",
+      "font_points": 8.8,
+      "inside_canvas": true
+    },
+    {
+      "text": "0/8",
+      "font_points": 8.4,
+      "inside_canvas": true
+    },
+    {
+      "text": "0/8",
+      "font_points": 8.4,
+      "inside_canvas": true
+    },
+    {
+      "text": "2/8",
+      "font_points": 8.4,
+      "inside_canvas": true
+    },
+    {
+      "text": "Streams",
+      "font_points": 8.2,
+      "inside_canvas": true
+    },
+    {
+      "text": "0",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "4",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "8",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Old subject\nstill active",
+      "font_points": 8.8,
+      "inside_canvas": true
+    },
+    {
+      "text": "2/8",
+      "font_points": 8.4,
+      "inside_canvas": true
+    },
+    {
+      "text": "2/8",
+      "font_points": 8.4,
+      "inside_canvas": true
+    },
+    {
+      "text": "2/8",
+      "font_points": 8.4,
+      "inside_canvas": true
+    },
+    {
+      "text": "Streams",
+      "font_points": 8.2,
+      "inside_canvas": true
+    },
+    {
+      "text": "0",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "4",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "8",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Response ID =\npredecessor",
+      "font_points": 8.8,
+      "inside_canvas": true
+    },
+    {
+      "text": "A narrow identity guard changes the stored outcome",
+      "font_points": 13.5,
+      "inside_canvas": true
+    },
+    {
+      "text": "24 intervention cells  |  same 8 streams per source arm  |  one fresh store per cell",
+      "font_points": 8.8,
+      "inside_canvas": true
+    },
+    {
+      "text": "State observations",
+      "font_points": 8.5,
+      "inside_canvas": true
+    },
+    {
+      "text": "Response field is a separate diagnostic, not an established second defect.",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Fixed, source-informed intervention. Counts are not independent bugs or production reliability estimates.",
+      "font_points": 8.0,
+      "inside_canvas": true
+    }
+  ],
+  "03_native_witness": [
+    {
+      "text": "Before the call",
+      "font_points": 9.8,
+      "inside_canvas": true
+    },
+    {
+      "text": "Record ID: 2\nArchived: 0\nPredecessor: none\nCurrent records: 1",
+      "font_points": 8.7,
+      "inside_canvas": true
+    },
+    {
+      "text": "Successful response",
+      "font_points": 9.8,
+      "inside_canvas": true
+    },
+    {
+      "text": "Same text requested\nid = 2\nsupersedes = 2",
+      "font_points": 8.7,
+      "inside_canvas": true
+    },
+    {
+      "text": "Unmodified",
+      "font_points": 9.8,
+      "inside_canvas": true
+    },
+    {
+      "text": "Archived: 1\nPredecessor: 2\nCurrent records: 0\nAfter cold reopen: 0",
+      "font_points": 8.7,
+      "inside_canvas": true
+    },
+    {
+      "text": "Different-ID guard",
+      "font_points": 9.8,
+      "inside_canvas": true
+    },
+    {
+      "text": "Archived: 0\nPredecessor: none\nCurrent records: 1\nAfter cold reopen: 1",
+      "font_points": 8.7,
+      "inside_canvas": true
+    },
+    {
+      "text": "Same response, different stored states",
+      "font_points": 13.5,
+      "inside_canvas": true
+    },
+    {
+      "text": "Representative same-value captures  |  original source and different-ID guard",
+      "font_points": 8.8,
+      "inside_canvas": true
+    },
+    {
+      "text": "Solid arrows show call order in separate fresh stores; branch identity is inspected in source.",
+      "font_points": 8.0,
+      "inside_canvas": true
+    },
+    {
+      "text": "Existing cells shown again; no extra executions or complete repair validation.",
+      "font_points": 8.0,
+      "inside_canvas": true
+    }
+  ]
+}

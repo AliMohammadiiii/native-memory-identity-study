@@ -1,0 +1,28 @@
+{
+  "status": "PASS_WITH_WARNINGS",
+  "inspected_by": "Codex visual inspection, not independent human review",
+  "figures": [
+    "01_stream_outcomes",
+    "02_identity_intervention",
+    "03_native_witness"
+  ],
+  "all_canvas_text_checks_pass": true,
+  "minimum_design_font_points": 8,
+  "intended_width_inches": 6.4,
+  "formats": [
+    "PDF",
+    "SVG",
+    "PNG"
+  ],
+  "raster_dpi": 360,
+  "checked": [
+    "Exact counts and original denominators",
+    "Per-cell marker mapping",
+    "Full 0-to-8 intervention scale",
+    "No clipped heading or zero marker",
+    "Observed vs inspected mechanism distinction",
+    "Response diagnostic not classified as a second defect",
+    "Redundant marker shapes and direct count labels"
+  ],
+  "remaining": "No selected-venue compliance or independent human scientific approval is inferred."
+}

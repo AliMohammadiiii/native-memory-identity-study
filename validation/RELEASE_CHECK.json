@@ -1,0 +1,15 @@
+{
+  "scope": "selected public code and synthetic data release",
+  "files_scanned": 562,
+  "credential_prefix_hits": 0,
+  "research_workstation_path_hits": 0,
+  "restricted_dataset_marker_hits": 0,
+  "readme_quantitative_tables": "match bound generated analyses",
+  "upstream_linux_test_path": "preserved licensed upstream source; not executed",
+  "raw_capture_transformation": "none",
+  "native_validation": "56 fresh native cells; matching per-cell outcome tables",
+  "renderer_validation": "nine byte-identical exports",
+  "measurement_tests_passed": 8,
+  "independent_reproduction": "NOT_INFERRED",
+  "manuscript_publication_readiness": "NOT_ESTABLISHED"
+}

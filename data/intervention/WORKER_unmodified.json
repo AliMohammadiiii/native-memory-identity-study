@@ -1,0 +1,14 @@
+{
+  "arm": "unmodified",
+  "blocked_network_attempts": [],
+  "completed_cells": [
+    "normal_change",
+    "same_value",
+    "repeat_current_value",
+    "return_to_archived_value",
+    "existing_other_root",
+    "existing_other_chain",
+    "different_namespace_value",
+    "repeat_remember"
+  ]
+}

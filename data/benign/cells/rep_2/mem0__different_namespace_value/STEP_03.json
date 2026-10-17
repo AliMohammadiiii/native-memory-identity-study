@@ -1,0 +1,223 @@
+{
+  "number": 3,
+  "alias": "subject",
+  "operation": "add",
+  "target_alias": null,
+  "namespace": "fixture",
+  "requested": "memoryprobe preference blue",
+  "native": {
+    "outcome": "return",
+    "value": {
+      "results": [
+        {
+          "id": "5fc69d25-f976-46fa-9fe3-1dca75f12ade",
+          "memory": "memoryprobe preference blue",
+          "event": "ADD",
+          "actor_id": null,
+          "role": "user"
+        }
+      ]
+    },
+    "returned_id": "5fc69d25-f976-46fa-9fe3-1dca75f12ade"
+  },
+  "before": {
+    "public_current": [],
+    "current_contents": [],
+    "physical_contents": [],
+    "physical_rows": [],
+    "histories": {
+      "0f3493aa-2b1d-450c-a31a-a27e1e92f0ef": [
+        {
+          "id": "8e3e8198-3938-48c8-9d19-21616501a1f8",
+          "memory_id": "0f3493aa-2b1d-450c-a31a-a27e1e92f0ef",
+          "old_memory": null,
+          "new_memory": "memoryprobe preference green",
+          "event": "ADD",
+          "created_at": "2026-10-16T21:12:10.347664+00:00",
+          "updated_at": "2026-10-16T21:12:10.347664+00:00",
+          "is_deleted": false,
+          "actor_id": null,
+          "role": "user"
+        }
+      ],
+      "6ec2a393-235c-4f39-94da-70945651c4e2": [
+        {
+          "id": "2c34854b-617e-4bb3-9d2d-73cddf53a437",
+          "memory_id": "6ec2a393-235c-4f39-94da-70945651c4e2",
+          "old_memory": null,
+          "new_memory": "memoryprobe unrelated keep",
+          "event": "ADD",
+          "created_at": "2026-10-16T21:12:10.345657+00:00",
+          "updated_at": "2026-10-16T21:12:10.345657+00:00",
+          "is_deleted": false,
+          "actor_id": null,
+          "role": "user"
+        }
+      ]
+    },
+    "other_namespace_contents": [
+      "memoryprobe preference green"
+    ],
+    "sentinel_contents": [
+      "memoryprobe unrelated keep"
+    ],
+    "physical_event_rows": [
+      {
+        "id": "2c34854b-617e-4bb3-9d2d-73cddf53a437",
+        "memory_id": "6ec2a393-235c-4f39-94da-70945651c4e2",
+        "old_memory": null,
+        "new_memory": "memoryprobe unrelated keep",
+        "event": "ADD",
+        "created_at": "2026-10-16T21:12:10.345657+00:00",
+        "updated_at": "2026-10-16T21:12:10.345657+00:00",
+        "is_deleted": 0,
+        "actor_id": null,
+        "role": "user"
+      },
+      {
+        "id": "8e3e8198-3938-48c8-9d19-21616501a1f8",
+        "memory_id": "0f3493aa-2b1d-450c-a31a-a27e1e92f0ef",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference green",
+        "event": "ADD",
+        "created_at": "2026-10-16T21:12:10.347664+00:00",
+        "updated_at": "2026-10-16T21:12:10.347664+00:00",
+        "is_deleted": 0,
+        "actor_id": null,
+        "role": "user"
+      }
+    ],
+    "sqlite_integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ]
+  },
+  "after": {
+    "public_current": [
+      {
+        "id": "5fc69d25-f976-46fa-9fe3-1dca75f12ade",
+        "memory": "memoryprobe preference blue",
+        "hash": "b657945a24a933991a2c22efd353ce8f",
+        "metadata": null,
+        "created_at": "2026-10-16T21:12:10.349340+00:00",
+        "updated_at": "2026-10-16T21:12:10.349340+00:00",
+        "user_id": "fixture",
+        "role": "user"
+      }
+    ],
+    "current_contents": [
+      "memoryprobe preference blue"
+    ],
+    "physical_contents": [
+      "memoryprobe preference blue"
+    ],
+    "physical_rows": [
+      {
+        "id": "5fc69d25-f976-46fa-9fe3-1dca75f12ade",
+        "payload": {
+          "user_id": "fixture",
+          "role": "user",
+          "data": "memoryprobe preference blue",
+          "hash": "b657945a24a933991a2c22efd353ce8f",
+          "created_at": "2026-10-16T21:12:10.349340+00:00",
+          "updated_at": "2026-10-16T21:12:10.349340+00:00",
+          "text_lemmatized": "memoryprobe preference blue"
+        }
+      }
+    ],
+    "histories": {
+      "0f3493aa-2b1d-450c-a31a-a27e1e92f0ef": [
+        {
+          "id": "8e3e8198-3938-48c8-9d19-21616501a1f8",
+          "memory_id": "0f3493aa-2b1d-450c-a31a-a27e1e92f0ef",
+          "old_memory": null,
+          "new_memory": "memoryprobe preference green",
+          "event": "ADD",
+          "created_at": "2026-10-16T21:12:10.347664+00:00",
+          "updated_at": "2026-10-16T21:12:10.347664+00:00",
+          "is_deleted": false,
+          "actor_id": null,
+          "role": "user"
+        }
+      ],
+      "5fc69d25-f976-46fa-9fe3-1dca75f12ade": [
+        {
+          "id": "af916ad2-4bee-44ca-8d57-b9fe30ef2736",
+          "memory_id": "5fc69d25-f976-46fa-9fe3-1dca75f12ade",
+          "old_memory": null,
+          "new_memory": "memoryprobe preference blue",
+          "event": "ADD",
+          "created_at": "2026-10-16T21:12:10.349340+00:00",
+          "updated_at": "2026-10-16T21:12:10.349340+00:00",
+          "is_deleted": false,
+          "actor_id": null,
+          "role": "user"
+        }
+      ],
+      "6ec2a393-235c-4f39-94da-70945651c4e2": [
+        {
+          "id": "2c34854b-617e-4bb3-9d2d-73cddf53a437",
+          "memory_id": "6ec2a393-235c-4f39-94da-70945651c4e2",
+          "old_memory": null,
+          "new_memory": "memoryprobe unrelated keep",
+          "event": "ADD",
+          "created_at": "2026-10-16T21:12:10.345657+00:00",
+          "updated_at": "2026-10-16T21:12:10.345657+00:00",
+          "is_deleted": false,
+          "actor_id": null,
+          "role": "user"
+        }
+      ]
+    },
+    "other_namespace_contents": [
+      "memoryprobe preference green"
+    ],
+    "sentinel_contents": [
+      "memoryprobe unrelated keep"
+    ],
+    "physical_event_rows": [
+      {
+        "id": "2c34854b-617e-4bb3-9d2d-73cddf53a437",
+        "memory_id": "6ec2a393-235c-4f39-94da-70945651c4e2",
+        "old_memory": null,
+        "new_memory": "memoryprobe unrelated keep",
+        "event": "ADD",
+        "created_at": "2026-10-16T21:12:10.345657+00:00",
+        "updated_at": "2026-10-16T21:12:10.345657+00:00",
+        "is_deleted": 0,
+        "actor_id": null,
+        "role": "user"
+      },
+      {
+        "id": "8e3e8198-3938-48c8-9d19-21616501a1f8",
+        "memory_id": "0f3493aa-2b1d-450c-a31a-a27e1e92f0ef",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference green",
+        "event": "ADD",
+        "created_at": "2026-10-16T21:12:10.347664+00:00",
+        "updated_at": "2026-10-16T21:12:10.347664+00:00",
+        "is_deleted": 0,
+        "actor_id": null,
+        "role": "user"
+      },
+      {
+        "id": "af916ad2-4bee-44ca-8d57-b9fe30ef2736",
+        "memory_id": "5fc69d25-f976-46fa-9fe3-1dca75f12ade",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference blue",
+        "event": "ADD",
+        "created_at": "2026-10-16T21:12:10.349340+00:00",
+        "updated_at": "2026-10-16T21:12:10.349340+00:00",
+        "is_deleted": 0,
+        "actor_id": null,
+        "role": "user"
+      }
+    ],
+    "sqlite_integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ]
+  }
+}

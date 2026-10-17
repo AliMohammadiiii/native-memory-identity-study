@@ -1,0 +1,30 @@
+{
+  "DATA_STATUS": "PROVIDED",
+  "STYLE_STATUS": "ESTIMATED",
+  "REPRODUCIBILITY_STATUS": "CODED",
+  "EXPORT_STATUS": "NEEDS_JOURNAL_CHECK",
+  "INTEGRITY_STATUS": "PASS_WITH_WARNINGS",
+  "target": "Generic author-review paper; no selected venue",
+  "width_inches": 6.4,
+  "uncertainty": "No inferential intervals. Fixed deterministic development streams are not population samples.",
+  "figures": [
+    {
+      "id": "01_stream_outcomes",
+      "claim": "Requested content is absent in the two selected same-value agentmem streams, with both repetitions shown.",
+      "denominator": "32 original cells",
+      "type": "individual-cell outcome map"
+    },
+    {
+      "id": "02_identity_intervention",
+      "claim": "The unequal-ID guard preserves current content and distinct-ID archiving in the fixed streams, while whole-branch disabling retains old active subjects.",
+      "denominator": "8 streams per arm; 24 separate intervention cells",
+      "type": "aligned count dot plots"
+    },
+    {
+      "id": "03_native_witness",
+      "claim": "The same successful returned fields coexist with different captured persisted states in the unmodified and guarded same-value cells.",
+      "denominator": "two representative already counted cells",
+      "type": "observed state and call-order diagram"
+    }
+  ]
+}

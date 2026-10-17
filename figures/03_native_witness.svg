@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="273.6pt" viewBox="0 0 460.8 273.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 273.6 
+L 460.8 273.6 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 17.64864 194.5296 
+L 119.20896 194.5296 
+Q 125.3376 194.5296 125.3376 191.84832 
+L 125.3376 97.62048 
+Q 125.3376 94.9392 119.20896 94.9392 
+L 17.64864 94.9392 
+Q 11.52 94.9392 11.52 97.62048 
+L 11.52 191.84832 
+Q 11.52 194.5296 17.64864 194.5296 
+z
+" clip-path="url(#p560a0801c4)" style="fill: #f2f5f7; stroke: #627482; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 151.16544 179.208 
+L 272.42496 179.208 
+Q 278.5536 179.208 278.5536 176.52672 
+L 278.5536 112.94208 
+Q 278.5536 110.2608 272.42496 110.2608 
+L 151.16544 110.2608 
+Q 145.0368 110.2608 145.0368 112.94208 
+L 145.0368 176.52672 
+Q 145.0368 179.208 151.16544 179.208 
+z
+" clip-path="url(#p560a0801c4)" style="fill: #f1f5fa; stroke: #386ca5; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 315.32544 144.7344 
+L 440.96256 144.7344 
+Q 447.0912 144.7344 447.0912 142.05312 
+L 447.0912 63.14688 
+Q 447.0912 60.4656 440.96256 60.4656 
+L 315.32544 60.4656 
+Q 309.1968 60.4656 309.1968 63.14688 
+L 309.1968 142.05312 
+Q 309.1968 144.7344 315.32544 144.7344 
+z
+" clip-path="url(#p560a0801c4)" style="fill: #fcf3ef; stroke: #b74c38; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 315.32544 245.2824 
+L 440.96256 245.2824 
+Q 447.0912 245.2824 447.0912 242.60112 
+L 447.0912 163.69488 
+Q 447.0912 161.0136 440.96256 161.0136 
+L 315.32544 161.0136 
+Q 309.1968 161.0136 309.1968 163.69488 
+L 309.1968 242.60112 
+Q 309.1968 245.2824 315.32544 245.2824 
+z
+" clip-path="url(#p560a0801c4)" style="fill: #eff7f3; stroke: #237c70; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 125.146721 144.7344 
+Q 134.529517 144.7344 142.570672 144.7344 
+" clip-path="url(#p560a0801c4)" style="fill: none; stroke: #627482; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 138.570672 142.7344 
+L 142.570672 144.7344 
+L 138.570672 146.7344 
+z
+" clip-path="url(#p560a0801c4)" style="fill: #627482; stroke: #627482; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 278.621011 135.623874 
+Q 293.656557 119.836551 307.766833 105.020762 
+" clip-path="url(#p560a0801c4)" style="fill: none; stroke: #b74c38; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 303.559936 106.538003 
+L 307.766833 105.020762 
+L 306.456488 109.296624 
+z
+" clip-path="url(#p560a0801c4)" style="fill: #b74c38; stroke: #b74c38; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 278.31241 154.083742 
+Q 293.656378 178.250491 308.281215 201.28461 
+" clip-path="url(#p560a0801c4)" style="fill: none; stroke: #237c70; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 307.825608 196.835742 
+L 308.281215 201.28461 
+L 304.448757 198.979775 
+z
+" clip-path="url(#p560a0801c4)" style="fill: #237c70; stroke: #237c70; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 9.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #627482" x="23.77728" y="113.876869" transform="rotate(-0 23.77728 113.876869)">Before the call</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(23.77728 130.562869)">Record ID: 2</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(23.77728 143.612869)">Archived: 0</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(23.77728 156.662869)">Predecessor: none</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(23.77728 169.712869)">Current records: 1</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #386ca5" x="157.29408" y="129.198469" transform="rotate(-0 157.29408 129.198469)">Successful response</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(157.29408 145.041656)">Same text requested</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(157.29408 158.934469)">id = 2</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(157.29408 171.141656)">supersedes = 2</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b74c38" x="321.45408" y="79.403269" transform="rotate(-0 321.45408 79.403269)">Unmodified</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(321.45408 96.089269)">Archived: 1</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(321.45408 109.139269)">Predecessor: 2</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(321.45408 122.189269)">Current records: 0</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(321.45408 134.396456)">After cold reopen: 0</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 9.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #237c70" x="321.45408" y="179.951269" transform="rotate(-0 321.45408 179.951269)">Different-ID guard</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(321.45408 196.637269)">Archived: 0</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(321.45408 209.687269)">Predecessor: none</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(321.45408 222.737269)">Current records: 1</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #203947" transform="translate(321.45408 234.944456)">After cold reopen: 1</text>
+   </g>
+  </g>
+  <g id="text_9">
+   <text style="font-weight: 700; font-size: 13.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #203947" x="16.128" y="26.673891" transform="rotate(-0 16.128 26.673891)">Same response, different stored states</text>
+  </g>
+  <g id="text_10">
+   <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #627482" x="16.128" y="42.293125" transform="rotate(-0 16.128 42.293125)">Representative same-value captures  |  original source and different-ID guard</text>
+  </g>
+  <g id="text_11">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #627482" x="16.128" y="258.0048" transform="rotate(-0 16.128 258.0048)">Solid arrows show call order in separate fresh stores; branch identity is inspected in source.</text>
+  </g>
+  <g id="text_12">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #627482" x="16.128" y="268.6752" transform="rotate(-0 16.128 268.6752)">Existing cells shown again; no extra executions or complete repair validation.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p560a0801c4">
+   <rect x="11.52" y="54.72" width="437.76" height="191.52"/>
+  </clipPath>
+ </defs>
+</svg>

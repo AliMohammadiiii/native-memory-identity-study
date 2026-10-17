@@ -1,0 +1,12 @@
+{
+  "python": "3.12.14 (main, Sep  1 2026, 14:09:38) [Clang 22.1.3 ]",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "sqlite": "3.53.1",
+  "sqlite_vec": "0.1.6",
+  "mem0": "2.2.1",
+  "qdrant_client": "1.19.1",
+  "agentmem": "0.3.0",
+  "embedding": "Mem0 static 8D double; agentmem no embedding function",
+  "executor": "same_owner_same_workstation",
+  "injected_faults": 0
+}

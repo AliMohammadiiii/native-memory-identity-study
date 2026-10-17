@@ -1,0 +1,201 @@
+{
+  "cells": [
+    {
+      "library": "agentmem",
+      "stream": "normal_change",
+      "repetition": 1,
+      "path": "cells/rep_1/agentmem__normal_change"
+    },
+    {
+      "library": "agentmem",
+      "stream": "same_value",
+      "repetition": 1,
+      "path": "cells/rep_1/agentmem__same_value"
+    },
+    {
+      "library": "agentmem",
+      "stream": "repeat_current_value",
+      "repetition": 1,
+      "path": "cells/rep_1/agentmem__repeat_current_value"
+    },
+    {
+      "library": "agentmem",
+      "stream": "return_to_archived_value",
+      "repetition": 1,
+      "path": "cells/rep_1/agentmem__return_to_archived_value"
+    },
+    {
+      "library": "agentmem",
+      "stream": "existing_other_root",
+      "repetition": 1,
+      "path": "cells/rep_1/agentmem__existing_other_root"
+    },
+    {
+      "library": "agentmem",
+      "stream": "existing_other_chain",
+      "repetition": 1,
+      "path": "cells/rep_1/agentmem__existing_other_chain"
+    },
+    {
+      "library": "agentmem",
+      "stream": "different_namespace_value",
+      "repetition": 1,
+      "path": "cells/rep_1/agentmem__different_namespace_value"
+    },
+    {
+      "library": "agentmem",
+      "stream": "repeat_remember",
+      "repetition": 1,
+      "path": "cells/rep_1/agentmem__repeat_remember"
+    },
+    {
+      "library": "mem0",
+      "stream": "normal_change",
+      "repetition": 1,
+      "path": "cells/rep_1/mem0__normal_change"
+    },
+    {
+      "library": "mem0",
+      "stream": "same_value",
+      "repetition": 1,
+      "path": "cells/rep_1/mem0__same_value"
+    },
+    {
+      "library": "mem0",
+      "stream": "repeat_current_value",
+      "repetition": 1,
+      "path": "cells/rep_1/mem0__repeat_current_value"
+    },
+    {
+      "library": "mem0",
+      "stream": "return_to_archived_value",
+      "repetition": 1,
+      "path": "cells/rep_1/mem0__return_to_archived_value"
+    },
+    {
+      "library": "mem0",
+      "stream": "existing_other_root",
+      "repetition": 1,
+      "path": "cells/rep_1/mem0__existing_other_root"
+    },
+    {
+      "library": "mem0",
+      "stream": "existing_other_chain",
+      "repetition": 1,
+      "path": "cells/rep_1/mem0__existing_other_chain"
+    },
+    {
+      "library": "mem0",
+      "stream": "different_namespace_value",
+      "repetition": 1,
+      "path": "cells/rep_1/mem0__different_namespace_value"
+    },
+    {
+      "library": "mem0",
+      "stream": "repeat_remember",
+      "repetition": 1,
+      "path": "cells/rep_1/mem0__repeat_remember"
+    },
+    {
+      "library": "agentmem",
+      "stream": "normal_change",
+      "repetition": 2,
+      "path": "cells/rep_2/agentmem__normal_change"
+    },
+    {
+      "library": "agentmem",
+      "stream": "same_value",
+      "repetition": 2,
+      "path": "cells/rep_2/agentmem__same_value"
+    },
+    {
+      "library": "agentmem",
+      "stream": "repeat_current_value",
+      "repetition": 2,
+      "path": "cells/rep_2/agentmem__repeat_current_value"
+    },
+    {
+      "library": "agentmem",
+      "stream": "return_to_archived_value",
+      "repetition": 2,
+      "path": "cells/rep_2/agentmem__return_to_archived_value"
+    },
+    {
+      "library": "agentmem",
+      "stream": "existing_other_root",
+      "repetition": 2,
+      "path": "cells/rep_2/agentmem__existing_other_root"
+    },
+    {
+      "library": "agentmem",
+      "stream": "existing_other_chain",
+      "repetition": 2,
+      "path": "cells/rep_2/agentmem__existing_other_chain"
+    },
+    {
+      "library": "agentmem",
+      "stream": "different_namespace_value",
+      "repetition": 2,
+      "path": "cells/rep_2/agentmem__different_namespace_value"
+    },
+    {
+      "library": "agentmem",
+      "stream": "repeat_remember",
+      "repetition": 2,
+      "path": "cells/rep_2/agentmem__repeat_remember"
+    },
+    {
+      "library": "mem0",
+      "stream": "normal_change",
+      "repetition": 2,
+      "path": "cells/rep_2/mem0__normal_change"
+    },
+    {
+      "library": "mem0",
+      "stream": "same_value",
+      "repetition": 2,
+      "path": "cells/rep_2/mem0__same_value"
+    },
+    {
+      "library": "mem0",
+      "stream": "repeat_current_value",
+      "repetition": 2,
+      "path": "cells/rep_2/mem0__repeat_current_value"
+    },
+    {
+      "library": "mem0",
+      "stream": "return_to_archived_value",
+      "repetition": 2,
+      "path": "cells/rep_2/mem0__return_to_archived_value"
+    },
+    {
+      "library": "mem0",
+      "stream": "existing_other_root",
+      "repetition": 2,
+      "path": "cells/rep_2/mem0__existing_other_root"
+    },
+    {
+      "library": "mem0",
+      "stream": "existing_other_chain",
+      "repetition": 2,
+      "path": "cells/rep_2/mem0__existing_other_chain"
+    },
+    {
+      "library": "mem0",
+      "stream": "different_namespace_value",
+      "repetition": 2,
+      "path": "cells/rep_2/mem0__different_namespace_value"
+    },
+    {
+      "library": "mem0",
+      "stream": "repeat_remember",
+      "repetition": 2,
+      "path": "cells/rep_2/mem0__repeat_remember"
+    }
+  ],
+  "blocked_network_attempts": [],
+  "native_source_unchanged": true,
+  "model_or_embedding_api_calls": 0,
+  "injected_faults": 0,
+  "publication_readiness": "NOT_ESTABLISHED"
+}

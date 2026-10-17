@@ -1,0 +1,115 @@
+{
+  "number": 2,
+  "alias": "other_root",
+  "operation": "add",
+  "target_alias": null,
+  "namespace": "fixture",
+  "requested": "memoryprobe preference red",
+  "native": {
+    "outcome": "return",
+    "value": {
+      "id": 2,
+      "tier": "core",
+      "embedded": false,
+      "deduplicated": false
+    },
+    "returned_id": 2
+  },
+  "before": {
+    "public_current": [],
+    "current_contents": [],
+    "physical_contents": [],
+    "physical_rows": [
+      {
+        "id": 1,
+        "content": "memoryprobe unrelated keep",
+        "namespace": "sentinel",
+        "archived": 0,
+        "supersedes": null
+      }
+    ],
+    "histories": {
+      "1": [
+        {
+          "id": 1,
+          "content": "memoryprobe unrelated keep",
+          "created_at": 1792214225.984328,
+          "archived": false
+        }
+      ]
+    },
+    "other_namespace_contents": [],
+    "sentinel_contents": [
+      "memoryprobe unrelated keep"
+    ],
+    "writer_in_transaction": false,
+    "sqlite_integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ]
+  },
+  "after": {
+    "public_current": [
+      {
+        "id": 2,
+        "content": "memoryprobe preference red",
+        "tier": "core",
+        "source": "",
+        "score": 0.0936,
+        "method": "hybrid",
+        "importance": 0.34
+      }
+    ],
+    "current_contents": [
+      "memoryprobe preference red"
+    ],
+    "physical_contents": [
+      "memoryprobe preference red"
+    ],
+    "physical_rows": [
+      {
+        "id": 1,
+        "content": "memoryprobe unrelated keep",
+        "namespace": "sentinel",
+        "archived": 0,
+        "supersedes": null
+      },
+      {
+        "id": 2,
+        "content": "memoryprobe preference red",
+        "namespace": "fixture",
+        "archived": 0,
+        "supersedes": null
+      }
+    ],
+    "histories": {
+      "1": [
+        {
+          "id": 1,
+          "content": "memoryprobe unrelated keep",
+          "created_at": 1792214225.984328,
+          "archived": false
+        }
+      ],
+      "2": [
+        {
+          "id": 2,
+          "content": "memoryprobe preference red",
+          "created_at": 1792214225.98626,
+          "archived": false
+        }
+      ]
+    },
+    "other_namespace_contents": [],
+    "sentinel_contents": [
+      "memoryprobe unrelated keep"
+    ],
+    "writer_in_transaction": false,
+    "sqlite_integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ]
+  }
+}

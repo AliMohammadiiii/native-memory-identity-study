@@ -1,0 +1,69 @@
+{
+  "number": 1,
+  "alias": "sentinel",
+  "operation": "add",
+  "target_alias": null,
+  "namespace": "sentinel",
+  "requested": "memoryprobe unrelated keep",
+  "native": {
+    "outcome": "return",
+    "value": {
+      "results": [
+        {
+          "id": "446728c7-9c79-4b50-90d4-fb29fb6b6e9c",
+          "memory": "memoryprobe unrelated keep",
+          "event": "ADD",
+          "actor_id": null,
+          "role": "user"
+        }
+      ]
+    },
+    "returned_id": "446728c7-9c79-4b50-90d4-fb29fb6b6e9c"
+  },
+  "before": null,
+  "after": {
+    "public_current": [],
+    "current_contents": [],
+    "physical_contents": [],
+    "physical_rows": [],
+    "histories": {
+      "446728c7-9c79-4b50-90d4-fb29fb6b6e9c": [
+        {
+          "id": "2495e484-73e4-4045-8fb0-231aa8089ee7",
+          "memory_id": "446728c7-9c79-4b50-90d4-fb29fb6b6e9c",
+          "old_memory": null,
+          "new_memory": "memoryprobe unrelated keep",
+          "event": "ADD",
+          "created_at": "2026-10-16T21:12:10.061817+00:00",
+          "updated_at": "2026-10-16T21:12:10.061817+00:00",
+          "is_deleted": false,
+          "actor_id": null,
+          "role": "user"
+        }
+      ]
+    },
+    "other_namespace_contents": [],
+    "sentinel_contents": [
+      "memoryprobe unrelated keep"
+    ],
+    "physical_event_rows": [
+      {
+        "id": "2495e484-73e4-4045-8fb0-231aa8089ee7",
+        "memory_id": "446728c7-9c79-4b50-90d4-fb29fb6b6e9c",
+        "old_memory": null,
+        "new_memory": "memoryprobe unrelated keep",
+        "event": "ADD",
+        "created_at": "2026-10-16T21:12:10.061817+00:00",
+        "updated_at": "2026-10-16T21:12:10.061817+00:00",
+        "is_deleted": 0,
+        "actor_id": null,
+        "role": "user"
+      }
+    ],
+    "sqlite_integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ]
+  }
+}

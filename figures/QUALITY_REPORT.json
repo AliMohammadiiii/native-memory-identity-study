@@ -1,0 +1,14 @@
+{
+  "source_checks": "PASS",
+  "all_56_cells_reopened": true,
+  "denominators_kept_separate": true,
+  "no_data_transform_beyond_tabulation": true,
+  "canvas_text_bounds": {
+    "01_stream_outcomes": true,
+    "02_identity_intervention": true,
+    "03_native_witness": true
+  },
+  "visual_inspection": "PENDING",
+  "journal_style": "ESTIMATED",
+  "model_calls": 0
+}

@@ -1,0 +1,53 @@
+{
+  "number": 1,
+  "alias": "sentinel",
+  "operation": "add",
+  "target_alias": null,
+  "namespace": "sentinel",
+  "requested": "memoryprobe unrelated keep",
+  "native": {
+    "outcome": "return",
+    "value": {
+      "id": 1,
+      "tier": "core",
+      "embedded": false,
+      "deduplicated": false
+    },
+    "returned_id": 1
+  },
+  "before": null,
+  "after": {
+    "public_current": [],
+    "current_contents": [],
+    "physical_contents": [],
+    "physical_rows": [
+      {
+        "id": 1,
+        "content": "memoryprobe unrelated keep",
+        "namespace": "sentinel",
+        "archived": 0,
+        "supersedes": null
+      }
+    ],
+    "histories": {
+      "1": [
+        {
+          "id": 1,
+          "content": "memoryprobe unrelated keep",
+          "created_at": 1792214225.369746,
+          "archived": false
+        }
+      ]
+    },
+    "other_namespace_contents": [],
+    "sentinel_contents": [
+      "memoryprobe unrelated keep"
+    ],
+    "writer_in_transaction": false,
+    "sqlite_integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ]
+  }
+}

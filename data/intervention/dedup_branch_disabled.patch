@@ -1,0 +1,11 @@
+--- pinned/core.py
++++ dedup_branch_disabled/core.py
+@@ -1441,7 +1441,7 @@
+ 
+         # If remember() returned a deduplicated result, the supersedes parameter
+         # was ignored and the old memory was NOT archived. Fix that here.
+-        if result.get("deduplicated"):
++        if False and result.get("deduplicated"):
+             now = time.time()
+             # Archive the old memory
+             self.db.execute(

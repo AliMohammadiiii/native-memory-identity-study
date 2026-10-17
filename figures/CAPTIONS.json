@@ -1,0 +1,14 @@
+{
+  "01_stream_outcomes": {
+    "caption": "Public current-value availability in every original selected native cell. Each symbol is one fresh store; columns identify the two configurations and their two repetitions. Presence and absence agree with separate physical and cold observations. The fixed development matrix does not estimate deployment failure rates or general system superiority.",
+    "alt_text": "Eight operation streams by four repetition columns. Both agentmem repetitions lack the current requested value for same-value and repeat-current-value updates. All other displayed cells retain it."
+  },
+  "02_identity_intervention": {
+    "caption": "Separate source intervention on the same eight streams per arm. Counts use the full 0 to 8 scale. Stored loss and self edges disappear under both changes; whole-branch disabling retains the old subject in two different-ID streams. Identical returned ID and predecessor fields remain a separate response diagnostic and are not independently classified as another defect. No inferential intervals are shown for these deterministic authored cells.",
+    "alt_text": "Four aligned count plots for three source arms. Unmodified source has two loss and self-edge cells. The guard has zero of each and zero old-subject retention. Disabled branch has two old-subject-retention cells. Each arm has two self-valued predecessor responses."
+  },
+  "03_native_witness": {
+    "caption": "Representative captured same-value call sequence in separate fresh stores. The returned ID and predecessor fields are identical in the two arms; the unmodified source archives and self-links the record, while the guarded source retains an active record without a persisted self edge. Current reads after cold reopening agree with each captured state. Arrows indicate call order; branch interpretation is grounded in inspected source. These are views of existing cells, not new executions or a complete repair validation.",
+    "alt_text": "An initial active record with no predecessor leads to the same successful response in both arms. The unmodified state is archived with zero current records; the guarded state remains active with one current record. Cold reads preserve the difference."
+  }
+}

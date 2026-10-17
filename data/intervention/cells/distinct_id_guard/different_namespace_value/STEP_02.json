@@ -1,0 +1,103 @@
+{
+  "number": 2,
+  "alias": "other",
+  "operation": "add",
+  "target_alias": null,
+  "namespace": "other",
+  "requested": "memoryprobe preference green",
+  "native": {
+    "outcome": "return",
+    "value": {
+      "id": 2,
+      "tier": "core",
+      "embedded": false,
+      "deduplicated": false
+    },
+    "returned_id": 2
+  },
+  "before": {
+    "public_current": [],
+    "current_contents": [],
+    "physical_contents": [],
+    "physical_rows": [
+      {
+        "id": 1,
+        "content": "memoryprobe unrelated keep",
+        "namespace": "sentinel",
+        "archived": 0,
+        "supersedes": null
+      }
+    ],
+    "histories": {
+      "1": [
+        {
+          "id": 1,
+          "content": "memoryprobe unrelated keep",
+          "created_at": 1792214225.687178,
+          "archived": false
+        }
+      ]
+    },
+    "other_namespace_contents": [],
+    "sentinel_contents": [
+      "memoryprobe unrelated keep"
+    ],
+    "writer_in_transaction": false,
+    "sqlite_integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ]
+  },
+  "after": {
+    "public_current": [],
+    "current_contents": [],
+    "physical_contents": [],
+    "physical_rows": [
+      {
+        "id": 1,
+        "content": "memoryprobe unrelated keep",
+        "namespace": "sentinel",
+        "archived": 0,
+        "supersedes": null
+      },
+      {
+        "id": 2,
+        "content": "memoryprobe preference green",
+        "namespace": "other",
+        "archived": 0,
+        "supersedes": null
+      }
+    ],
+    "histories": {
+      "1": [
+        {
+          "id": 1,
+          "content": "memoryprobe unrelated keep",
+          "created_at": 1792214225.687178,
+          "archived": false
+        }
+      ],
+      "2": [
+        {
+          "id": 2,
+          "content": "memoryprobe preference green",
+          "created_at": 1792214225.689366,
+          "archived": false
+        }
+      ]
+    },
+    "other_namespace_contents": [
+      "memoryprobe preference green"
+    ],
+    "sentinel_contents": [
+      "memoryprobe unrelated keep"
+    ],
+    "writer_in_transaction": false,
+    "sqlite_integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ]
+  }
+}

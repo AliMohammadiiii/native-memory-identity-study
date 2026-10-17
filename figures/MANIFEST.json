@@ -1,0 +1,23 @@
+{
+  "files": {
+    "01_stream_outcomes.pdf": "71c9a5002f6e48206240580bd6d179a76c899a60c580448b8649aecdcdc0bae5",
+    "01_stream_outcomes.png": "4cdef4c543b33e4a956674ce222e0d3da0dca5d8c42dfe3f2df249892897f881",
+    "01_stream_outcomes.svg": "43f5dcc1d728fd6a2b7039461d1fce824a84a582b6cab62458db0d4e771fef3f",
+    "02_identity_intervention.pdf": "be1193f0de804132854aa8f6c77c4478eaaeb0306581d5bd0d228df6d08f76a3",
+    "02_identity_intervention.png": "a2e58819e766d8a117cfc1ca962e2124c04a06f542005b362e06d3144233e2f2",
+    "02_identity_intervention.svg": "2dba41b4da6fd08d9195f6ff42ad26322738714615b2cea27838a6235eb93b71",
+    "03_native_witness.pdf": "05462299936d1c659fe8ee3e33d3bbac694411edbb0890c69e67ab10e954ca16",
+    "03_native_witness.png": "14e601405e36a725e5bbf60e6ff443dfddd395b54eee96288a0ba477672ebdc0",
+    "03_native_witness.svg": "dd0bd602ca4856ed4ef6ac577d013fe142837023bee7c9db9892d6011f1f5743",
+    "CAPTIONS.json": "64ce346c4e67f6c40e9189afc460b0bd5d299ac8db167028877606c6801f5712",
+    "FIGURE_DATA.json": "29f38bfbb63853292d52ce51b3c5a77cc733883be8b5e6cb448965d517406dc6",
+    "FIGURE_SPEC.json": "107cda7bf3131393b1114d58a9c16af4b7ae62cd8bcb7d8b28d5604756d6acfa",
+    "INPUT_BINDINGS.json": "dccbd744a0d9aaa8eb2be1d456aec7ef2c4f72f8969bc8735c50d4dffd3d73d7",
+    "QUALITY_REPORT.json": "bddaa50dfa122413daefa1dc039e272671d3d1e90da2fe2340944b56a75855c6",
+    "TEXT_LAYOUT.json": "e7d67c83e7954caf5315f72861b0f2ca4df8861df9c87eae8ecea01dc8be8dd2",
+    "plot_figures.py": "c56168359dc11031bcad7b35120e4be49af53e9af49b3bb55cf54260f94d0a70"
+  },
+  "input_files": 60,
+  "new_model_calls": 0,
+  "new_native_calls": 0
+}

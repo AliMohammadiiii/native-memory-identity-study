@@ -1,0 +1,410 @@
+{
+  "intervention_cells": [
+    {
+      "arm": "unmodified",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "normal_change",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "unmodified",
+      "confirmed_current_loss": true,
+      "response_self_predecessor": true,
+      "stored_self_edges": 1,
+      "stream": "same_value",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "unmodified",
+      "confirmed_current_loss": true,
+      "response_self_predecessor": true,
+      "stored_self_edges": 1,
+      "stream": "repeat_current_value",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "unmodified",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "return_to_archived_value",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "unmodified",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "existing_other_root",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "unmodified",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "existing_other_chain",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "unmodified",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "different_namespace_value",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "unmodified",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "repeat_remember",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "distinct_id_guard",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "normal_change",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "distinct_id_guard",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": true,
+      "stored_self_edges": 0,
+      "stream": "same_value",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "distinct_id_guard",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": true,
+      "stored_self_edges": 0,
+      "stream": "repeat_current_value",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "distinct_id_guard",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "return_to_archived_value",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "distinct_id_guard",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "existing_other_root",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "distinct_id_guard",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "existing_other_chain",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "distinct_id_guard",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "different_namespace_value",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "distinct_id_guard",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "repeat_remember",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "dedup_branch_disabled",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "normal_change",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "dedup_branch_disabled",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": true,
+      "stored_self_edges": 0,
+      "stream": "same_value",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "dedup_branch_disabled",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": true,
+      "stored_self_edges": 0,
+      "stream": "repeat_current_value",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "dedup_branch_disabled",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "return_to_archived_value",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "dedup_branch_disabled",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "existing_other_root",
+      "subject_active_with_different_returned_id": true
+    },
+    {
+      "arm": "dedup_branch_disabled",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "existing_other_chain",
+      "subject_active_with_different_returned_id": true
+    },
+    {
+      "arm": "dedup_branch_disabled",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "different_namespace_value",
+      "subject_active_with_different_returned_id": false
+    },
+    {
+      "arm": "dedup_branch_disabled",
+      "confirmed_current_loss": false,
+      "response_self_predecessor": false,
+      "stored_self_edges": 0,
+      "stream": "repeat_remember",
+      "subject_active_with_different_returned_id": false
+    }
+  ],
+  "intervention_summary": {
+    "dedup_branch_disabled": {
+      "confirmed_current_loss": 0,
+      "response_self_predecessor": 2,
+      "stored_self_edges": 0,
+      "subject_active_with_different_returned_id": 2
+    },
+    "distinct_id_guard": {
+      "confirmed_current_loss": 0,
+      "response_self_predecessor": 2,
+      "stored_self_edges": 0,
+      "subject_active_with_different_returned_id": 0
+    },
+    "unmodified": {
+      "confirmed_current_loss": 2,
+      "response_self_predecessor": 2,
+      "stored_self_edges": 2,
+      "subject_active_with_different_returned_id": 0
+    }
+  },
+  "original_cells": [
+    {
+      "library": "agentmem",
+      "repetition": 1,
+      "stream": "normal_change",
+      "visible": true
+    },
+    {
+      "library": "agentmem",
+      "repetition": 2,
+      "stream": "normal_change",
+      "visible": true
+    },
+    {
+      "library": "agentmem",
+      "repetition": 1,
+      "stream": "same_value",
+      "visible": false
+    },
+    {
+      "library": "agentmem",
+      "repetition": 2,
+      "stream": "same_value",
+      "visible": false
+    },
+    {
+      "library": "agentmem",
+      "repetition": 1,
+      "stream": "repeat_current_value",
+      "visible": false
+    },
+    {
+      "library": "agentmem",
+      "repetition": 2,
+      "stream": "repeat_current_value",
+      "visible": false
+    },
+    {
+      "library": "agentmem",
+      "repetition": 1,
+      "stream": "return_to_archived_value",
+      "visible": true
+    },
+    {
+      "library": "agentmem",
+      "repetition": 2,
+      "stream": "return_to_archived_value",
+      "visible": true
+    },
+    {
+      "library": "agentmem",
+      "repetition": 1,
+      "stream": "existing_other_root",
+      "visible": true
+    },
+    {
+      "library": "agentmem",
+      "repetition": 2,
+      "stream": "existing_other_root",
+      "visible": true
+    },
+    {
+      "library": "agentmem",
+      "repetition": 1,
+      "stream": "existing_other_chain",
+      "visible": true
+    },
+    {
+      "library": "agentmem",
+      "repetition": 2,
+      "stream": "existing_other_chain",
+      "visible": true
+    },
+    {
+      "library": "agentmem",
+      "repetition": 1,
+      "stream": "different_namespace_value",
+      "visible": true
+    },
+    {
+      "library": "agentmem",
+      "repetition": 2,
+      "stream": "different_namespace_value",
+      "visible": true
+    },
+    {
+      "library": "agentmem",
+      "repetition": 1,
+      "stream": "repeat_remember",
+      "visible": true
+    },
+    {
+      "library": "agentmem",
+      "repetition": 2,
+      "stream": "repeat_remember",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 1,
+      "stream": "normal_change",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 2,
+      "stream": "normal_change",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 1,
+      "stream": "same_value",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 2,
+      "stream": "same_value",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 1,
+      "stream": "repeat_current_value",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 2,
+      "stream": "repeat_current_value",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 1,
+      "stream": "return_to_archived_value",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 2,
+      "stream": "return_to_archived_value",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 1,
+      "stream": "existing_other_root",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 2,
+      "stream": "existing_other_root",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 1,
+      "stream": "existing_other_chain",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 2,
+      "stream": "existing_other_chain",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 1,
+      "stream": "different_namespace_value",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 2,
+      "stream": "different_namespace_value",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 1,
+      "stream": "repeat_remember",
+      "visible": true
+    },
+    {
+      "library": "mem0",
+      "repetition": 2,
+      "stream": "repeat_remember",
+      "visible": true
+    }
+  ]
+}

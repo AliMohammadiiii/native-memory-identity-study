@@ -1,0 +1,237 @@
+{
+  "number": 3,
+  "alias": "current",
+  "operation": "update",
+  "target_alias": "subject",
+  "namespace": null,
+  "requested": "memoryprobe preference green",
+  "native": {
+    "outcome": "return",
+    "value": {
+      "message": "Memory updated successfully!"
+    },
+    "returned_id": "7be20c58-a0c3-4e15-a13e-2c2c76dbd6cf"
+  },
+  "before": {
+    "public_current": [
+      {
+        "id": "7be20c58-a0c3-4e15-a13e-2c2c76dbd6cf",
+        "memory": "memoryprobe preference blue",
+        "hash": "b657945a24a933991a2c22efd353ce8f",
+        "metadata": null,
+        "created_at": "2026-10-16T21:12:09.982801+00:00",
+        "updated_at": "2026-10-16T21:12:09.982801+00:00",
+        "user_id": "fixture",
+        "role": "user"
+      }
+    ],
+    "current_contents": [
+      "memoryprobe preference blue"
+    ],
+    "physical_contents": [
+      "memoryprobe preference blue"
+    ],
+    "physical_rows": [
+      {
+        "id": "7be20c58-a0c3-4e15-a13e-2c2c76dbd6cf",
+        "payload": {
+          "user_id": "fixture",
+          "role": "user",
+          "data": "memoryprobe preference blue",
+          "hash": "b657945a24a933991a2c22efd353ce8f",
+          "created_at": "2026-10-16T21:12:09.982801+00:00",
+          "updated_at": "2026-10-16T21:12:09.982801+00:00",
+          "text_lemmatized": "memoryprobe preference blue"
+        }
+      }
+    ],
+    "histories": {
+      "7be20c58-a0c3-4e15-a13e-2c2c76dbd6cf": [
+        {
+          "id": "6c19501f-9edb-4f42-960f-80cb3462a2af",
+          "memory_id": "7be20c58-a0c3-4e15-a13e-2c2c76dbd6cf",
+          "old_memory": null,
+          "new_memory": "memoryprobe preference blue",
+          "event": "ADD",
+          "created_at": "2026-10-16T21:12:09.982801+00:00",
+          "updated_at": "2026-10-16T21:12:09.982801+00:00",
+          "is_deleted": false,
+          "actor_id": null,
+          "role": "user"
+        }
+      ],
+      "c0fa71b7-92f0-4615-a54e-9e0f60e72590": [
+        {
+          "id": "c3bd6c59-d44e-4cff-a1cc-158a0385103c",
+          "memory_id": "c0fa71b7-92f0-4615-a54e-9e0f60e72590",
+          "old_memory": null,
+          "new_memory": "memoryprobe unrelated keep",
+          "event": "ADD",
+          "created_at": "2026-10-16T21:12:09.980458+00:00",
+          "updated_at": "2026-10-16T21:12:09.980458+00:00",
+          "is_deleted": false,
+          "actor_id": null,
+          "role": "user"
+        }
+      ]
+    },
+    "other_namespace_contents": [],
+    "sentinel_contents": [
+      "memoryprobe unrelated keep"
+    ],
+    "physical_event_rows": [
+      {
+        "id": "c3bd6c59-d44e-4cff-a1cc-158a0385103c",
+        "memory_id": "c0fa71b7-92f0-4615-a54e-9e0f60e72590",
+        "old_memory": null,
+        "new_memory": "memoryprobe unrelated keep",
+        "event": "ADD",
+        "created_at": "2026-10-16T21:12:09.980458+00:00",
+        "updated_at": "2026-10-16T21:12:09.980458+00:00",
+        "is_deleted": 0,
+        "actor_id": null,
+        "role": "user"
+      },
+      {
+        "id": "6c19501f-9edb-4f42-960f-80cb3462a2af",
+        "memory_id": "7be20c58-a0c3-4e15-a13e-2c2c76dbd6cf",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference blue",
+        "event": "ADD",
+        "created_at": "2026-10-16T21:12:09.982801+00:00",
+        "updated_at": "2026-10-16T21:12:09.982801+00:00",
+        "is_deleted": 0,
+        "actor_id": null,
+        "role": "user"
+      }
+    ],
+    "sqlite_integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ]
+  },
+  "after": {
+    "public_current": [
+      {
+        "id": "7be20c58-a0c3-4e15-a13e-2c2c76dbd6cf",
+        "memory": "memoryprobe preference green",
+        "hash": "7b5d1d5df5f20dcbd653b2dbe114f927",
+        "metadata": null,
+        "created_at": "2026-10-16T21:12:09.982801+00:00",
+        "updated_at": "2026-10-16T21:12:09.984720+00:00",
+        "user_id": "fixture",
+        "role": "user"
+      }
+    ],
+    "current_contents": [
+      "memoryprobe preference green"
+    ],
+    "physical_contents": [
+      "memoryprobe preference green"
+    ],
+    "physical_rows": [
+      {
+        "id": "7be20c58-a0c3-4e15-a13e-2c2c76dbd6cf",
+        "payload": {
+          "user_id": "fixture",
+          "role": "user",
+          "data": "memoryprobe preference green",
+          "hash": "7b5d1d5df5f20dcbd653b2dbe114f927",
+          "created_at": "2026-10-16T21:12:09.982801+00:00",
+          "updated_at": "2026-10-16T21:12:09.984720+00:00",
+          "text_lemmatized": "memoryprobe preference green"
+        }
+      }
+    ],
+    "histories": {
+      "7be20c58-a0c3-4e15-a13e-2c2c76dbd6cf": [
+        {
+          "id": "6c19501f-9edb-4f42-960f-80cb3462a2af",
+          "memory_id": "7be20c58-a0c3-4e15-a13e-2c2c76dbd6cf",
+          "old_memory": null,
+          "new_memory": "memoryprobe preference blue",
+          "event": "ADD",
+          "created_at": "2026-10-16T21:12:09.982801+00:00",
+          "updated_at": "2026-10-16T21:12:09.982801+00:00",
+          "is_deleted": false,
+          "actor_id": null,
+          "role": "user"
+        },
+        {
+          "id": "fe590f97-6bb8-4c2f-9528-9178815ae8df",
+          "memory_id": "7be20c58-a0c3-4e15-a13e-2c2c76dbd6cf",
+          "old_memory": "memoryprobe preference blue",
+          "new_memory": "memoryprobe preference green",
+          "event": "UPDATE",
+          "created_at": "2026-10-16T21:12:09.982801+00:00",
+          "updated_at": "2026-10-16T21:12:09.984720+00:00",
+          "is_deleted": false,
+          "actor_id": null,
+          "role": "user"
+        }
+      ],
+      "c0fa71b7-92f0-4615-a54e-9e0f60e72590": [
+        {
+          "id": "c3bd6c59-d44e-4cff-a1cc-158a0385103c",
+          "memory_id": "c0fa71b7-92f0-4615-a54e-9e0f60e72590",
+          "old_memory": null,
+          "new_memory": "memoryprobe unrelated keep",
+          "event": "ADD",
+          "created_at": "2026-10-16T21:12:09.980458+00:00",
+          "updated_at": "2026-10-16T21:12:09.980458+00:00",
+          "is_deleted": false,
+          "actor_id": null,
+          "role": "user"
+        }
+      ]
+    },
+    "other_namespace_contents": [],
+    "sentinel_contents": [
+      "memoryprobe unrelated keep"
+    ],
+    "physical_event_rows": [
+      {
+        "id": "c3bd6c59-d44e-4cff-a1cc-158a0385103c",
+        "memory_id": "c0fa71b7-92f0-4615-a54e-9e0f60e72590",
+        "old_memory": null,
+        "new_memory": "memoryprobe unrelated keep",
+        "event": "ADD",
+        "created_at": "2026-10-16T21:12:09.980458+00:00",
+        "updated_at": "2026-10-16T21:12:09.980458+00:00",
+        "is_deleted": 0,
+        "actor_id": null,
+        "role": "user"
+      },
+      {
+        "id": "6c19501f-9edb-4f42-960f-80cb3462a2af",
+        "memory_id": "7be20c58-a0c3-4e15-a13e-2c2c76dbd6cf",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference blue",
+        "event": "ADD",
+        "created_at": "2026-10-16T21:12:09.982801+00:00",
+        "updated_at": "2026-10-16T21:12:09.982801+00:00",
+        "is_deleted": 0,
+        "actor_id": null,
+        "role": "user"
+      },
+      {
+        "id": "fe590f97-6bb8-4c2f-9528-9178815ae8df",
+        "memory_id": "7be20c58-a0c3-4e15-a13e-2c2c76dbd6cf",
+        "old_memory": "memoryprobe preference blue",
+        "new_memory": "memoryprobe preference green",
+        "event": "UPDATE",
+        "created_at": "2026-10-16T21:12:09.982801+00:00",
+        "updated_at": "2026-10-16T21:12:09.984720+00:00",
+        "is_deleted": 0,
+        "actor_id": null,
+        "role": "user"
+      }
+    ],
+    "sqlite_integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ]
+  }
+}

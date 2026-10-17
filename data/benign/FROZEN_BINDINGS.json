@@ -1,0 +1,41 @@
+{
+  "frozen_at_utc": "2026-10-16T21:12:07.636663+00:00",
+  "protocol_sha256": "26f868a194747c3b1628b1ecb7dbe49c7339af3d2c39947160dc19e77e984652",
+  "source_files": {
+    ".gitignore": "0cfbbb2372eeae7a7f1509e83d7e5c59696fdfee2d8302c3208b41536aff46c5",
+    "Dockerfile": "dc1f5db67c6f8186ffe3ed67af76aee4ed3d8a7429df1e1d05c3137771a8d40f",
+    "LICENSE": "664a543bc6eaf419f5245a32c222fd653e20bebad88a6b77362a19162f849942",
+    "README.md": "8cdcc64b1a7e8dfd600371edf0ceefd7f1c870efc8352e76d3dc792761426aba",
+    "__init__.py": "3474feede248549f73491dfe0f631b9e507bf0be6fef3291b08a598719f9ef4e",
+    "__main__.py": "1ce54c8f0fdba2d3a2bf6094abbb34f1978d7f27294f8fb2fced56a3f05bd52b",
+    "benchmarks/__init__.py": "73699b9869ae380843cc1deeba944ccda8e2ac42ef4f314e05d77140c5ffd0d1",
+    "benchmarks/__main__.py": "4c8a96ebbb4c1d90e36334c11516bf3a038dc15327d194c3eb051bbd1ae68476",
+    "benchmarks/bench.py": "70c5a8f24cc1bea752ef15d7ce0479254bf8b1a5693ee80f3ca3fe8adbfffed8",
+    "benchmarks/results.json": "f5f1b8681443f59187a24ce8ba2867561fe5b32159c8e52654372f672a5818f2",
+    "cli.py": "94d4e892a59e12ca9f9d430e20a68e95cb43503791ef12222d50765fad39ad2c",
+    "core.py": "b56e9d0057449b4cfb06c7445606cf7ce95af1f2e0b294443c95d5c90f1b343a",
+    "embeddings.py": "999265889542de03fffd8891a796f41db4f4c3b218eeeb1f1c75d9b00e4aaf8c",
+    "glama.json": "015f87530a30172ea7257e7d662ca23e3630b618b0ee594e825ab5f8ae47c241",
+    "http_server.py": "0c14b61beacde51a06c2270562fa9fc040e186dbf346e01c99201bb59d6901b0",
+    "py.typed": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "pyproject.toml": "478c6a7f491a2c8a0317a8cbc649967a57e5bd995dc6fe3b78e12064073705c0",
+    "server-card.json": "00e8e91cfb37004662328d3db53a063c5f348d4efc01ef6bce3fa6f50752d982",
+    "server.json": "40aa1040a987c7099e7522505188c31a391b60e73b4e97ccbbf5256e2bebe488",
+    "server.py": "260419bcc29e9246c5d1e60b7ebf41d855111ff516f7afcb34daba3c144031d2",
+    "tests/test_core.py": "0345eb0da76ad6031f9e78e4fefc41e9560be58bbae8294cfbc6053a7ab37df3",
+    "tests/test_http.py": "fb42eeebc6714b53cf619d9e0aff89d2d056a5ad4684a4db24ec3546d659c328",
+    "tests/test_quality.py": "40c51a89368e23786c28a70befa1982cba7e027bf4b5bfd72da2d616685a6b0c"
+  },
+  "code_files": {
+    "PROTOCOL.json": "26f868a194747c3b1628b1ecb7dbe49c7339af3d2c39947160dc19e77e984652",
+    "README.md": "1ec4c32274d9b2cce4e5c2fd84e144178527d8c3a28b7b74b008cfafd06b093b",
+    "__init__.py": "41b9bcf490ad98497926951fd6b9568375ffdbf76655bf9ff4fa12c1b7bddba7",
+    "adapters.py": "03d82f588554974fd9d207d24944eda3dafe146183adedc3ffda05ad5250940b",
+    "analyze.py": "76b71791868f0d403ca28aeb9868e622cfe2d9ae3f0f5ad341a598564fe46072",
+    "measure.py": "f950894b3e3975e2fa8a1eb0f5a3d397ef420affe26d78cc6c8abf62502ee29c",
+    "run.py": "f2a696934cb7e6cf451100fc2a840592096a575f93c7d4709bc5e6deaf93cb6a",
+    "test_measure.py": "fec464be449031f05bcf29b5c0a48b4f557302584833f47ea84d7cc3bdc0dd6e"
+  },
+  "mem0_main_sha256": "f329ca4a17af1fbefb32ac10d4cc7ae7ddbdb7435a87eb74c30915cff98b8b7c",
+  "interpretation": "Local prospective development freeze after primary source inspection. No public preregistration."
+}

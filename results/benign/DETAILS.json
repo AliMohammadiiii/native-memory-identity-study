@@ -1,0 +1,1066 @@
+[
+  {
+    "library": "agentmem",
+    "stream": "normal_change",
+    "repetition": 1,
+    "path": "cells/rep_1/agentmem__normal_change",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "normal_change",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": 0,
+      "cycle_nodes": 0,
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": {
+      "self_edges": [],
+      "cycle_nodes": [],
+      "dangling_predecessors": []
+    },
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "same_value",
+    "repetition": 1,
+    "path": "cells/rep_1/agentmem__same_value",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "same_value",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": false,
+      "public_current_records": 0,
+      "self_edges": 1,
+      "cycle_nodes": 1,
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "SUCCESS_WITH_REQUESTED_VALUE_UNAVAILABLE"
+    },
+    "graph": {
+      "self_edges": [
+        2
+      ],
+      "cycle_nodes": [
+        2
+      ],
+      "dangling_predecessors": []
+    },
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference blue",
+    "current": [],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "repeat_current_value",
+    "repetition": 1,
+    "path": "cells/rep_1/agentmem__repeat_current_value",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "repeat_current_value",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": false,
+      "public_current_records": 0,
+      "self_edges": 1,
+      "cycle_nodes": 1,
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "SUCCESS_WITH_REQUESTED_VALUE_UNAVAILABLE"
+    },
+    "graph": {
+      "self_edges": [
+        3
+      ],
+      "cycle_nodes": [
+        3
+      ],
+      "dangling_predecessors": []
+    },
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference green",
+    "current": [],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "return_to_archived_value",
+    "repetition": 1,
+    "path": "cells/rep_1/agentmem__return_to_archived_value",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "return_to_archived_value",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": 0,
+      "cycle_nodes": 0,
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": {
+      "self_edges": [],
+      "cycle_nodes": [],
+      "dangling_predecessors": []
+    },
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference blue",
+    "current": [
+      "memoryprobe preference blue"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "existing_other_root",
+    "repetition": 1,
+    "path": "cells/rep_1/agentmem__existing_other_root",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "existing_other_root",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": 0,
+      "cycle_nodes": 0,
+      "other_history_changed": true,
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": {
+      "self_edges": [],
+      "cycle_nodes": [],
+      "dangling_predecessors": []
+    },
+    "other_history_before": [
+      "memoryprobe preference green"
+    ],
+    "other_history_after": [
+      "memoryprobe preference green",
+      "memoryprobe preference blue"
+    ],
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "existing_other_chain",
+    "repetition": 1,
+    "path": "cells/rep_1/agentmem__existing_other_chain",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "existing_other_chain",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": 0,
+      "cycle_nodes": 0,
+      "other_history_changed": true,
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": {
+      "self_edges": [],
+      "cycle_nodes": [],
+      "dangling_predecessors": []
+    },
+    "other_history_before": [
+      "memoryprobe preference green",
+      "memoryprobe preference red"
+    ],
+    "other_history_after": [
+      "memoryprobe preference green",
+      "memoryprobe preference blue"
+    ],
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "different_namespace_value",
+    "repetition": 1,
+    "path": "cells/rep_1/agentmem__different_namespace_value",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "different_namespace_value",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": 0,
+      "cycle_nodes": 0,
+      "other_history_changed": false,
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": {
+      "self_edges": [],
+      "cycle_nodes": [],
+      "dangling_predecessors": []
+    },
+    "other_history_before": [
+      "memoryprobe preference green"
+    ],
+    "other_history_after": [
+      "memoryprobe preference green"
+    ],
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "repeat_remember",
+    "repetition": 1,
+    "path": "cells/rep_1/agentmem__repeat_remember",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "repeat_remember",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": 0,
+      "cycle_nodes": 0,
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": {
+      "self_edges": [],
+      "cycle_nodes": [],
+      "dangling_predecessors": []
+    },
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference blue",
+    "current": [
+      "memoryprobe preference blue"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "normal_change",
+    "repetition": 1,
+    "path": "cells/rep_1/mem0__normal_change",
+    "measurement": {
+      "library": "mem0",
+      "stream": "normal_change",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "same_value",
+    "repetition": 1,
+    "path": "cells/rep_1/mem0__same_value",
+    "measurement": {
+      "library": "mem0",
+      "stream": "same_value",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference blue",
+    "current": [
+      "memoryprobe preference blue"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "repeat_current_value",
+    "repetition": 1,
+    "path": "cells/rep_1/mem0__repeat_current_value",
+    "measurement": {
+      "library": "mem0",
+      "stream": "repeat_current_value",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "return_to_archived_value",
+    "repetition": 1,
+    "path": "cells/rep_1/mem0__return_to_archived_value",
+    "measurement": {
+      "library": "mem0",
+      "stream": "return_to_archived_value",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference blue",
+    "current": [
+      "memoryprobe preference blue"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "existing_other_root",
+    "repetition": 1,
+    "path": "cells/rep_1/mem0__existing_other_root",
+    "measurement": {
+      "library": "mem0",
+      "stream": "existing_other_root",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 2,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": false,
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": [
+      {
+        "event": "ADD",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference green"
+      }
+    ],
+    "other_history_after": [
+      {
+        "event": "ADD",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference green"
+      }
+    ],
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green",
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "existing_other_chain",
+    "repetition": 1,
+    "path": "cells/rep_1/mem0__existing_other_chain",
+    "measurement": {
+      "library": "mem0",
+      "stream": "existing_other_chain",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 2,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": false,
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": [
+      {
+        "event": "ADD",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference red"
+      },
+      {
+        "event": "UPDATE",
+        "old_memory": "memoryprobe preference red",
+        "new_memory": "memoryprobe preference green"
+      }
+    ],
+    "other_history_after": [
+      {
+        "event": "ADD",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference red"
+      },
+      {
+        "event": "UPDATE",
+        "old_memory": "memoryprobe preference red",
+        "new_memory": "memoryprobe preference green"
+      }
+    ],
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green",
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "different_namespace_value",
+    "repetition": 1,
+    "path": "cells/rep_1/mem0__different_namespace_value",
+    "measurement": {
+      "library": "mem0",
+      "stream": "different_namespace_value",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": false,
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": [
+      {
+        "event": "ADD",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference green"
+      }
+    ],
+    "other_history_after": [
+      {
+        "event": "ADD",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference green"
+      }
+    ],
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "repeat_remember",
+    "repetition": 1,
+    "path": "cells/rep_1/mem0__repeat_remember",
+    "measurement": {
+      "library": "mem0",
+      "stream": "repeat_remember",
+      "repetition": 1,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 2,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference blue",
+    "current": [
+      "memoryprobe preference blue",
+      "memoryprobe preference blue"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "normal_change",
+    "repetition": 2,
+    "path": "cells/rep_2/agentmem__normal_change",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "normal_change",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": 0,
+      "cycle_nodes": 0,
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": {
+      "self_edges": [],
+      "cycle_nodes": [],
+      "dangling_predecessors": []
+    },
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "same_value",
+    "repetition": 2,
+    "path": "cells/rep_2/agentmem__same_value",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "same_value",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": false,
+      "public_current_records": 0,
+      "self_edges": 1,
+      "cycle_nodes": 1,
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "SUCCESS_WITH_REQUESTED_VALUE_UNAVAILABLE"
+    },
+    "graph": {
+      "self_edges": [
+        2
+      ],
+      "cycle_nodes": [
+        2
+      ],
+      "dangling_predecessors": []
+    },
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference blue",
+    "current": [],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "repeat_current_value",
+    "repetition": 2,
+    "path": "cells/rep_2/agentmem__repeat_current_value",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "repeat_current_value",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": false,
+      "public_current_records": 0,
+      "self_edges": 1,
+      "cycle_nodes": 1,
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "SUCCESS_WITH_REQUESTED_VALUE_UNAVAILABLE"
+    },
+    "graph": {
+      "self_edges": [
+        3
+      ],
+      "cycle_nodes": [
+        3
+      ],
+      "dangling_predecessors": []
+    },
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference green",
+    "current": [],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "return_to_archived_value",
+    "repetition": 2,
+    "path": "cells/rep_2/agentmem__return_to_archived_value",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "return_to_archived_value",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": 0,
+      "cycle_nodes": 0,
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": {
+      "self_edges": [],
+      "cycle_nodes": [],
+      "dangling_predecessors": []
+    },
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference blue",
+    "current": [
+      "memoryprobe preference blue"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "existing_other_root",
+    "repetition": 2,
+    "path": "cells/rep_2/agentmem__existing_other_root",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "existing_other_root",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": 0,
+      "cycle_nodes": 0,
+      "other_history_changed": true,
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": {
+      "self_edges": [],
+      "cycle_nodes": [],
+      "dangling_predecessors": []
+    },
+    "other_history_before": [
+      "memoryprobe preference green"
+    ],
+    "other_history_after": [
+      "memoryprobe preference green",
+      "memoryprobe preference blue"
+    ],
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "existing_other_chain",
+    "repetition": 2,
+    "path": "cells/rep_2/agentmem__existing_other_chain",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "existing_other_chain",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": 0,
+      "cycle_nodes": 0,
+      "other_history_changed": true,
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": {
+      "self_edges": [],
+      "cycle_nodes": [],
+      "dangling_predecessors": []
+    },
+    "other_history_before": [
+      "memoryprobe preference green",
+      "memoryprobe preference red"
+    ],
+    "other_history_after": [
+      "memoryprobe preference green",
+      "memoryprobe preference blue"
+    ],
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "different_namespace_value",
+    "repetition": 2,
+    "path": "cells/rep_2/agentmem__different_namespace_value",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "different_namespace_value",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": 0,
+      "cycle_nodes": 0,
+      "other_history_changed": false,
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": {
+      "self_edges": [],
+      "cycle_nodes": [],
+      "dangling_predecessors": []
+    },
+    "other_history_before": [
+      "memoryprobe preference green"
+    ],
+    "other_history_after": [
+      "memoryprobe preference green"
+    ],
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "agentmem",
+    "stream": "repeat_remember",
+    "repetition": 2,
+    "path": "cells/rep_2/agentmem__repeat_remember",
+    "measurement": {
+      "library": "agentmem",
+      "stream": "repeat_remember",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": 0,
+      "cycle_nodes": 0,
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": {
+      "self_edges": [],
+      "cycle_nodes": [],
+      "dangling_predecessors": []
+    },
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference blue",
+    "current": [
+      "memoryprobe preference blue"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "normal_change",
+    "repetition": 2,
+    "path": "cells/rep_2/mem0__normal_change",
+    "measurement": {
+      "library": "mem0",
+      "stream": "normal_change",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "same_value",
+    "repetition": 2,
+    "path": "cells/rep_2/mem0__same_value",
+    "measurement": {
+      "library": "mem0",
+      "stream": "same_value",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference blue",
+    "current": [
+      "memoryprobe preference blue"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "repeat_current_value",
+    "repetition": 2,
+    "path": "cells/rep_2/mem0__repeat_current_value",
+    "measurement": {
+      "library": "mem0",
+      "stream": "repeat_current_value",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "return_to_archived_value",
+    "repetition": 2,
+    "path": "cells/rep_2/mem0__return_to_archived_value",
+    "measurement": {
+      "library": "mem0",
+      "stream": "return_to_archived_value",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference blue",
+    "current": [
+      "memoryprobe preference blue"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "existing_other_root",
+    "repetition": 2,
+    "path": "cells/rep_2/mem0__existing_other_root",
+    "measurement": {
+      "library": "mem0",
+      "stream": "existing_other_root",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 2,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": false,
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": [
+      {
+        "event": "ADD",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference green"
+      }
+    ],
+    "other_history_after": [
+      {
+        "event": "ADD",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference green"
+      }
+    ],
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green",
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "existing_other_chain",
+    "repetition": 2,
+    "path": "cells/rep_2/mem0__existing_other_chain",
+    "measurement": {
+      "library": "mem0",
+      "stream": "existing_other_chain",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 2,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": false,
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": [
+      {
+        "event": "ADD",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference red"
+      },
+      {
+        "event": "UPDATE",
+        "old_memory": "memoryprobe preference red",
+        "new_memory": "memoryprobe preference green"
+      }
+    ],
+    "other_history_after": [
+      {
+        "event": "ADD",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference red"
+      },
+      {
+        "event": "UPDATE",
+        "old_memory": "memoryprobe preference red",
+        "new_memory": "memoryprobe preference green"
+      }
+    ],
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green",
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "different_namespace_value",
+    "repetition": 2,
+    "path": "cells/rep_2/mem0__different_namespace_value",
+    "measurement": {
+      "library": "mem0",
+      "stream": "different_namespace_value",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 1,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": false,
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": [
+      {
+        "event": "ADD",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference green"
+      }
+    ],
+    "other_history_after": [
+      {
+        "event": "ADD",
+        "old_memory": null,
+        "new_memory": "memoryprobe preference green"
+      }
+    ],
+    "requested": "memoryprobe preference green",
+    "current": [
+      "memoryprobe preference green"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  },
+  {
+    "library": "mem0",
+    "stream": "repeat_remember",
+    "repetition": 2,
+    "path": "cells/rep_2/mem0__repeat_remember",
+    "measurement": {
+      "library": "mem0",
+      "stream": "repeat_remember",
+      "repetition": 2,
+      "successful_final_call": true,
+      "requested_value_visible": true,
+      "public_current_records": 2,
+      "self_edges": "NOT_APPLICABLE",
+      "cycle_nodes": "NOT_APPLICABLE",
+      "other_history_changed": "NOT_APPLICABLE",
+      "cold_reopen_matches": true,
+      "verdict": "REQUESTED_VALUE_VISIBLE"
+    },
+    "graph": null,
+    "other_history_before": null,
+    "other_history_after": null,
+    "requested": "memoryprobe preference blue",
+    "current": [
+      "memoryprobe preference blue",
+      "memoryprobe preference blue"
+    ],
+    "primary_claim_scope": "Public current-value availability after successful benign calls; no diagnostic-superiority claim."
+  }
+]
